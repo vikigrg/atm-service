@@ -1,0 +1,6 @@
+1. To configure ATM Port edit ATMISOService.exe Config file and update 
+   a. ServiceIP: Leave it blank if the server only has one Network configured.
+   b. ServicePort: Custom Service Port
+2. Run Install.bat or Uinstall.bat to install or uninstall the service.
+3. Check ATMISOService in windows services (Services.msc)
+4. Start the service to activate the ATM ISO Service.

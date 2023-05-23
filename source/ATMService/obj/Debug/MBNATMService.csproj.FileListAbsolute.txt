@@ -1,0 +1,10 @@
+D:\MBCustom\ATM\ISOATM\MBNATMService\MBNATMService\bin\Debug\MBNATMService.exe.config
+D:\MBCustom\ATM\ISOATM\MBNATMService\MBNATMService\bin\Debug\MBNATMService.exe
+D:\MBCustom\ATM\ISOATM\MBNATMService\MBNATMService\bin\Debug\MBNATMService.pdb
+D:\MBCustom\ATM\ISOATM\MBNATMService\MBNATMService\obj\Debug\MBNATMService.csprojResolveAssemblyReference.cache
+D:\MBCustom\ATM\ISOATM\MBNATMService\MBNATMService\obj\Debug\MBNATMService.ProjectInstaller.resources
+D:\MBCustom\ATM\ISOATM\MBNATMService\MBNATMService\obj\Debug\MBNATMService.csproj.GenerateResource.Cache
+D:\MBCustom\ATM\ISOATM\MBNATMService\MBNATMService\obj\Debug\MBNATMService.exe
+D:\MBCustom\ATM\ISOATM\MBNATMService\MBNATMService\obj\Debug\MBNATMService.pdb
+D:\MBCustom\ATM\ISOATM\MBNATMService\MBNATMService\bin\Debug\SimpleTCP.dll
+D:\MBCustom\ATM\ISOATM\MBNATMService\MBNATMService\bin\Debug\BIM-ISO8583.NET.dll

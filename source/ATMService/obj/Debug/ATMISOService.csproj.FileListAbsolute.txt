@@ -1,0 +1,106 @@
+D:\mbnprojects\mbn-atm\mbn-atm-isoservice -2\MBNATMService\MBNATMService\bin\Debug\MBNATMISOService.exe.config
+D:\mbnprojects\mbn-atm\mbn-atm-isoservice -2\MBNATMService\MBNATMService\bin\Debug\MBNATMISOService.exe
+D:\mbnprojects\mbn-atm\mbn-atm-isoservice -2\MBNATMService\MBNATMService\bin\Debug\MBNATMISOService.pdb
+D:\mbnprojects\mbn-atm\mbn-atm-isoservice -2\MBNATMService\MBNATMService\bin\Debug\BIM-ISO8583.NET.dll
+D:\mbnprojects\mbn-atm\mbn-atm-isoservice -2\MBNATMService\MBNATMService\bin\Debug\SimpleTCP.dll
+D:\mbnprojects\mbn-atm\mbn-atm-isoservice -2\MBNATMService\MBNATMService\obj\Debug\MBNATMService.ProjectInstaller.resources
+D:\mbnprojects\mbn-atm\mbn-atm-isoservice -2\MBNATMService\MBNATMService\obj\Debug\ATMISOService.csproj.GenerateResource.cache
+D:\mbnprojects\mbn-atm\mbn-atm-isoservice -2\MBNATMService\MBNATMService\obj\Debug\ATMISOService.csproj.CoreCompileInputs.cache
+D:\mbnprojects\mbn-atm\mbn-atm-isoservice -2\MBNATMService\MBNATMService\obj\Debug\ATMISOService.csproj.CopyComplete
+D:\mbnprojects\mbn-atm\mbn-atm-isoservice -2\MBNATMService\MBNATMService\obj\Debug\MBNATMISOService.exe
+D:\mbnprojects\mbn-atm\mbn-atm-isoservice -2\MBNATMService\MBNATMService\obj\Debug\MBNATMISOService.pdb
+D:\mbnprojects\mbn-atm\mbn-atm-isoservice -2\MBNATMService\ATMService\bin\Debug\ATMISOService.exe.config
+D:\mbnprojects\mbn-atm\mbn-atm-isoservice -2\MBNATMService\ATMService\bin\Debug\ATMISOService.exe
+D:\mbnprojects\mbn-atm\mbn-atm-isoservice -2\MBNATMService\ATMService\bin\Debug\ATMISOService.pdb
+D:\mbnprojects\mbn-atm\mbn-atm-isoservice -2\MBNATMService\ATMService\bin\Debug\BIM-ISO8583.NET.dll
+D:\mbnprojects\mbn-atm\mbn-atm-isoservice -2\MBNATMService\ATMService\bin\Debug\SimpleTCP.dll
+D:\mbnprojects\mbn-atm\mbn-atm-isoservice -2\MBNATMService\ATMService\obj\Debug\ATMISOService.csprojAssemblyReference.cache
+D:\mbnprojects\mbn-atm\mbn-atm-isoservice -2\MBNATMService\ATMService\obj\Debug\MBNATMService.ProjectInstaller.resources
+D:\mbnprojects\mbn-atm\mbn-atm-isoservice -2\MBNATMService\ATMService\obj\Debug\ATMISOService.csproj.GenerateResource.cache
+D:\mbnprojects\mbn-atm\mbn-atm-isoservice -2\MBNATMService\ATMService\obj\Debug\ATMISOService.csproj.CoreCompileInputs.cache
+D:\mbnprojects\mbn-atm\mbn-atm-isoservice -2\MBNATMService\ATMService\obj\Debug\ATMISOService.csproj.CopyComplete
+D:\mbnprojects\mbn-atm\mbn-atm-isoservice -2\MBNATMService\ATMService\obj\Debug\ATMISOService.exe
+D:\mbnprojects\mbn-atm\mbn-atm-isoservice -2\MBNATMService\ATMService\obj\Debug\ATMISOService.pdb
+D:\mbnprojects\mbn-atm\mbn-atm-isoservice -2\ATMService\ATMService\bin\Debug\ATMISOService.exe.config
+D:\mbnprojects\mbn-atm\mbn-atm-isoservice -2\ATMService\ATMService\bin\Debug\ATMISOService.exe
+D:\mbnprojects\mbn-atm\mbn-atm-isoservice -2\ATMService\ATMService\bin\Debug\ATMISOService.pdb
+D:\mbnprojects\mbn-atm\mbn-atm-isoservice -2\ATMService\ATMService\bin\Debug\BIM-ISO8583.NET.dll
+D:\mbnprojects\mbn-atm\mbn-atm-isoservice -2\ATMService\ATMService\bin\Debug\SimpleTCP.dll
+D:\mbnprojects\mbn-atm\mbn-atm-isoservice -2\ATMService\ATMService\obj\Debug\ATMISOService.csprojAssemblyReference.cache
+D:\mbnprojects\mbn-atm\mbn-atm-isoservice -2\ATMService\ATMService\obj\Debug\ATMISOService.csproj.GenerateResource.cache
+D:\mbnprojects\mbn-atm\mbn-atm-isoservice -2\ATMService\ATMService\obj\Debug\ATMISOService.csproj.CoreCompileInputs.cache
+D:\mbnprojects\mbn-atm\mbn-atm-isoservice -2\ATMService\ATMService\obj\Debug\ATMISOService.csproj.CopyComplete
+D:\mbnprojects\mbn-atm\mbn-atm-isoservice -2\ATMService\ATMService\obj\Debug\ATMISOService.exe
+D:\mbnprojects\mbn-atm\mbn-atm-isoservice -2\ATMService\ATMService\obj\Debug\ATMISOService.pdb
+D:\mbnprojects\mbn-atm\mbn-atm-isoservice -2\ATMService\ATMService\obj\Debug\ATMService.ProjectInstaller.resources
+D:\mbnprojects\mbn-atm\mbn-atm-isoservice -2\ATMService\ATMService\bin\Debug\ATMISOService.exe.manifest
+D:\mbnprojects\mbn-atm\mbn-atm-isoservice -2\ATMService\ATMService\bin\Debug\ATMISOService.application
+D:\mbnprojects\mbn-atm\mbn-atm-isoservice -2\ATMService\ATMService\obj\Debug\ATMISOService.exe.manifest
+D:\mbnprojects\mbn-atm\mbn-atm-isoservice -2\ATMService\ATMService\obj\Debug\ATMISOService.application
+C:\Users\Bikram Gurung\OneDrive\Desktop\ATM\ATMISOService\ATMISOService_Source\ATMService\bin\Debug\ATMISOService.exe.config
+C:\Users\Bikram Gurung\OneDrive\Desktop\ATM\ATMISOService\ATMISOService_Source\ATMService\bin\Debug\ATMISOService.exe.manifest
+C:\Users\Bikram Gurung\OneDrive\Desktop\ATM\ATMISOService\ATMISOService_Source\ATMService\bin\Debug\ATMISOService.application
+C:\Users\Bikram Gurung\OneDrive\Desktop\ATM\ATMISOService\ATMISOService_Source\ATMService\bin\Debug\ATMISOService.exe
+C:\Users\Bikram Gurung\OneDrive\Desktop\ATM\ATMISOService\ATMISOService_Source\ATMService\bin\Debug\ATMISOService.pdb
+C:\Users\Bikram Gurung\OneDrive\Desktop\ATM\ATMISOService\ATMISOService_Source\ATMService\bin\Debug\BIM-ISO8583.NET.dll
+C:\Users\Bikram Gurung\OneDrive\Desktop\ATM\ATMISOService\ATMISOService_Source\ATMService\bin\Debug\SimpleTCP.dll
+C:\Users\Bikram Gurung\OneDrive\Desktop\ATM\ATMISOService\ATMISOService_Source\ATMService\obj\Debug\ATMISOService.csprojAssemblyReference.cache
+C:\Users\Bikram Gurung\OneDrive\Desktop\ATM\ATMISOService\ATMISOService_Source\ATMService\obj\Debug\ATMService.ProjectInstaller.resources
+C:\Users\Bikram Gurung\OneDrive\Desktop\ATM\ATMISOService\ATMISOService_Source\ATMService\obj\Debug\ATMISOService.csproj.GenerateResource.cache
+C:\Users\Bikram Gurung\OneDrive\Desktop\ATM\ATMISOService\ATMISOService_Source\ATMService\obj\Debug\ATMISOService.csproj.CoreCompileInputs.cache
+C:\Users\Bikram Gurung\OneDrive\Desktop\ATM\ATMISOService\ATMISOService_Source\ATMService\obj\Debug\ATMISOService.exe.manifest
+C:\Users\Bikram Gurung\OneDrive\Desktop\ATM\ATMISOService\ATMISOService_Source\ATMService\obj\Debug\ATMISOService.application
+C:\Users\Bikram Gurung\OneDrive\Desktop\ATM\ATMISOService\ATMISOService_Source\ATMService\obj\Debug\ATMISOService.csproj.CopyComplete
+C:\Users\Bikram Gurung\OneDrive\Desktop\ATM\ATMISOService\ATMISOService_Source\ATMService\obj\Debug\ATMISOService.exe
+C:\Users\Bikram Gurung\OneDrive\Desktop\ATM\ATMISOService\ATMISOService_Source\ATMService\obj\Debug\ATMISOService.pdb
+E:\personal-projects\atm-iso-service\ATMISOService\ATMISOService_Source\ATMService\bin\Debug\ATMISOService.exe.config
+E:\personal-projects\atm-iso-service\ATMISOService\ATMISOService_Source\ATMService\bin\Debug\ATMISOService.exe.manifest
+E:\personal-projects\atm-iso-service\ATMISOService\ATMISOService_Source\ATMService\bin\Debug\ATMISOService.application
+E:\personal-projects\atm-iso-service\ATMISOService\ATMISOService_Source\ATMService\bin\Debug\ATMISOService.exe
+E:\personal-projects\atm-iso-service\ATMISOService\ATMISOService_Source\ATMService\bin\Debug\ATMISOService.pdb
+E:\personal-projects\atm-iso-service\ATMISOService\ATMISOService_Source\ATMService\bin\Debug\BIM-ISO8583.NET.dll
+E:\personal-projects\atm-iso-service\ATMISOService\ATMISOService_Source\ATMService\bin\Debug\Dapper.dll
+E:\personal-projects\atm-iso-service\ATMISOService\ATMISOService_Source\ATMService\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\personal-projects\atm-iso-service\ATMISOService\ATMISOService_Source\ATMService\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\personal-projects\atm-iso-service\ATMISOService\ATMISOService_Source\ATMService\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\personal-projects\atm-iso-service\ATMISOService\ATMISOService_Source\ATMService\bin\Debug\Npgsql.dll
+E:\personal-projects\atm-iso-service\ATMISOService\ATMISOService_Source\ATMService\bin\Debug\SimpleTCP.dll
+E:\personal-projects\atm-iso-service\ATMISOService\ATMISOService_Source\ATMService\bin\Debug\System.Buffers.dll
+E:\personal-projects\atm-iso-service\ATMISOService\ATMISOService_Source\ATMService\bin\Debug\System.Collections.Immutable.dll
+E:\personal-projects\atm-iso-service\ATMISOService\ATMISOService_Source\ATMService\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\personal-projects\atm-iso-service\ATMISOService\ATMISOService_Source\ATMService\bin\Debug\System.Memory.dll
+E:\personal-projects\atm-iso-service\ATMISOService\ATMISOService_Source\ATMService\bin\Debug\System.Numerics.Vectors.dll
+E:\personal-projects\atm-iso-service\ATMISOService\ATMISOService_Source\ATMService\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\personal-projects\atm-iso-service\ATMISOService\ATMISOService_Source\ATMService\bin\Debug\System.Text.Encodings.Web.dll
+E:\personal-projects\atm-iso-service\ATMISOService\ATMISOService_Source\ATMService\bin\Debug\System.Text.Json.dll
+E:\personal-projects\atm-iso-service\ATMISOService\ATMISOService_Source\ATMService\bin\Debug\System.Threading.Channels.dll
+E:\personal-projects\atm-iso-service\ATMISOService\ATMISOService_Source\ATMService\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\personal-projects\atm-iso-service\ATMISOService\ATMISOService_Source\ATMService\bin\Debug\System.ValueTuple.dll
+E:\personal-projects\atm-iso-service\ATMISOService\ATMISOService_Source\ATMService\bin\Debug\Dapper.xml
+E:\personal-projects\atm-iso-service\ATMISOService\ATMISOService_Source\ATMService\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\personal-projects\atm-iso-service\ATMISOService\ATMISOService_Source\ATMService\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\personal-projects\atm-iso-service\ATMISOService\ATMISOService_Source\ATMService\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\personal-projects\atm-iso-service\ATMISOService\ATMISOService_Source\ATMService\bin\Debug\Npgsql.xml
+E:\personal-projects\atm-iso-service\ATMISOService\ATMISOService_Source\ATMService\bin\Debug\System.Buffers.xml
+E:\personal-projects\atm-iso-service\ATMISOService\ATMISOService_Source\ATMService\bin\Debug\System.Collections.Immutable.xml
+E:\personal-projects\atm-iso-service\ATMISOService\ATMISOService_Source\ATMService\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\personal-projects\atm-iso-service\ATMISOService\ATMISOService_Source\ATMService\bin\Debug\System.Memory.xml
+E:\personal-projects\atm-iso-service\ATMISOService\ATMISOService_Source\ATMService\bin\Debug\System.Numerics.Vectors.xml
+E:\personal-projects\atm-iso-service\ATMISOService\ATMISOService_Source\ATMService\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\personal-projects\atm-iso-service\ATMISOService\ATMISOService_Source\ATMService\bin\Debug\System.Text.Encodings.Web.xml
+E:\personal-projects\atm-iso-service\ATMISOService\ATMISOService_Source\ATMService\bin\Debug\System.Text.Json.xml
+E:\personal-projects\atm-iso-service\ATMISOService\ATMISOService_Source\ATMService\bin\Debug\System.Threading.Channels.xml
+E:\personal-projects\atm-iso-service\ATMISOService\ATMISOService_Source\ATMService\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\personal-projects\atm-iso-service\ATMISOService\ATMISOService_Source\ATMService\bin\Debug\System.ValueTuple.xml
+E:\personal-projects\atm-iso-service\ATMISOService\ATMISOService_Source\ATMService\obj\Debug\ATMService.ProjectInstaller.resources
+E:\personal-projects\atm-iso-service\ATMISOService\ATMISOService_Source\ATMService\obj\Debug\ATMISOService.csproj.GenerateResource.cache
+E:\personal-projects\atm-iso-service\ATMISOService\ATMISOService_Source\ATMService\obj\Debug\ATMISOService.csproj.CoreCompileInputs.cache
+E:\personal-projects\atm-iso-service\ATMISOService\ATMISOService_Source\ATMService\obj\Debug\ATMISOService.exe.manifest
+E:\personal-projects\atm-iso-service\ATMISOService\ATMISOService_Source\ATMService\obj\Debug\ATMISOService.application
+E:\personal-projects\atm-iso-service\ATMISOService\ATMISOService_Source\ATMService\obj\Debug\ATMISOService.csproj.CopyComplete
+E:\personal-projects\atm-iso-service\ATMISOService\ATMISOService_Source\ATMService\obj\Debug\ATMISOService.exe
+E:\personal-projects\atm-iso-service\ATMISOService\ATMISOService_Source\ATMService\obj\Debug\ATMISOService.pdb
+E:\personal-projects\atm-iso-service\ATMISOService\ATMISOService_Source\ATMService\obj\Debug\ATMISOService.csprojAssemblyReference.cache
+E:\personal-projects\atm-iso-service\ATMISOService\ATMISOService_Source\ATMService\bin\Debug\Dapper.SimpleCRUD.dll
+E:\personal-projects\atm-iso-service\ATMISOService\ATMISOService_Source\ATMService\bin\Debug\Dapper.SimpleCRUD.pdb
+E:\personal-projects\atm-iso-service\ATMISOService\ATMISOService_Source\ATMService\bin\Debug\Dapper.SimpleCRUD.xml

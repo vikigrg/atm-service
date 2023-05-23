@@ -1,0 +1,44 @@
+D:\MBCustom\ATM\ISOATM\MBNATMService\MBNATMService\bin\Debug\MBNATMISOService.exe.config
+D:\MBCustom\ATM\ISOATM\MBNATMService\MBNATMService\bin\Debug\MBNATMISOService.exe
+D:\MBCustom\ATM\ISOATM\MBNATMService\MBNATMService\bin\Debug\MBNATMISOService.pdb
+D:\MBCustom\ATM\ISOATM\MBNATMService\MBNATMService\bin\Debug\BIM-ISO8583.NET.dll
+D:\MBCustom\ATM\ISOATM\MBNATMService\MBNATMService\bin\Debug\SimpleTCP.dll
+D:\MBCustom\ATM\ISOATM\MBNATMService\MBNATMService\obj\Debug\MBNATMService.ProjectInstaller.resources
+D:\MBCustom\ATM\ISOATM\MBNATMService\MBNATMService\obj\Debug\MBNATMISOService.csproj.GenerateResource.Cache
+D:\MBCustom\ATM\ISOATM\MBNATMService\MBNATMService\obj\Debug\MBNATMISOService.exe
+D:\MBCustom\ATM\ISOATM\MBNATMService\MBNATMService\obj\Debug\MBNATMISOService.pdb
+D:\MBCustom\ATM\ISOATM\MBNATMService\MBNATMService\obj\Debug\MBNATMISOService.csprojResolveAssemblyReference.cache
+D:\MBCustom\ATM\MBNATMISOService\MBNATMService\MBNATMService\bin\Debug\MBNATMISOService.exe.config
+D:\MBCustom\ATM\MBNATMISOService\MBNATMService\MBNATMService\obj\Debug\MBNATMISOService.exe
+D:\MBCustom\ATM\MBNATMISOService\MBNATMService\MBNATMService\obj\Debug\MBNATMISOService.pdb
+D:\MBCustom\ATM\MBNATMISOService\MBNATMService\MBNATMService\bin\Debug\MBNATMISOService.exe
+D:\MBCustom\ATM\MBNATMISOService\MBNATMService\MBNATMService\bin\Debug\MBNATMISOService.pdb
+D:\MBCustom\ATM\MBNATMISOService\MBNATMService\MBNATMService\bin\Debug\BIM-ISO8583.NET.dll
+D:\MBCustom\ATM\MBNATMISOService\MBNATMService\MBNATMService\bin\Debug\SimpleTCP.dll
+D:\MBCustom\ATM\MBNATMISOService\MBNATMService\MBNATMService\obj\Debug\MBNATMISOService.csprojResolveAssemblyReference.cache
+D:\MBCustom\ATM\MBNATMISOService\MBNATMService\MBNATMService\obj\Debug\MBNATMService.ProjectInstaller.resources
+D:\MBCustom\ATM\MBNATMISOService\MBNATMService\MBNATMService\obj\Debug\MBNATMISOService.csproj.GenerateResource.Cache
+D:\MBCustom\MBN-ATM\MBNATMISOService\MBNATMService\MBNATMService\bin\Debug\MBNATMISOService.exe.config
+D:\MBCustom\MBN-ATM\MBNATMISOService\MBNATMService\MBNATMService\bin\Debug\MBNATMISOService.exe
+D:\MBCustom\MBN-ATM\MBNATMISOService\MBNATMService\MBNATMService\bin\Debug\MBNATMISOService.pdb
+D:\MBCustom\MBN-ATM\MBNATMISOService\MBNATMService\MBNATMService\bin\Debug\BIM-ISO8583.NET.dll
+D:\MBCustom\MBN-ATM\MBNATMISOService\MBNATMService\MBNATMService\bin\Debug\SimpleTCP.dll
+D:\MBCustom\MBN-ATM\MBNATMISOService\MBNATMService\MBNATMService\obj\Debug\MBNATMISOService.csprojAssemblyReference.cache
+D:\MBCustom\MBN-ATM\MBNATMISOService\MBNATMService\MBNATMService\obj\Debug\MBNATMService.ProjectInstaller.resources
+D:\MBCustom\MBN-ATM\MBNATMISOService\MBNATMService\MBNATMService\obj\Debug\MBNATMISOService.csproj.GenerateResource.cache
+D:\MBCustom\MBN-ATM\MBNATMISOService\MBNATMService\MBNATMService\obj\Debug\MBNATMISOService.csproj.CoreCompileInputs.cache
+D:\MBCustom\MBN-ATM\MBNATMISOService\MBNATMService\MBNATMService\obj\Debug\MBNATMISOService.csproj.CopyComplete
+D:\MBCustom\MBN-ATM\MBNATMISOService\MBNATMService\MBNATMService\obj\Debug\MBNATMISOService.exe
+D:\MBCustom\MBN-ATM\MBNATMISOService\MBNATMService\MBNATMService\obj\Debug\MBNATMISOService.pdb
+D:\mbnprojects\mbn-atm\mbn-atm-isoservice -2\MBNATMService\MBNATMService\bin\Debug\MBNATMISOService.exe.config
+D:\mbnprojects\mbn-atm\mbn-atm-isoservice -2\MBNATMService\MBNATMService\bin\Debug\MBNATMISOService.exe
+D:\mbnprojects\mbn-atm\mbn-atm-isoservice -2\MBNATMService\MBNATMService\bin\Debug\MBNATMISOService.pdb
+D:\mbnprojects\mbn-atm\mbn-atm-isoservice -2\MBNATMService\MBNATMService\bin\Debug\BIM-ISO8583.NET.dll
+D:\mbnprojects\mbn-atm\mbn-atm-isoservice -2\MBNATMService\MBNATMService\bin\Debug\SimpleTCP.dll
+D:\mbnprojects\mbn-atm\mbn-atm-isoservice -2\MBNATMService\MBNATMService\obj\Debug\MBNATMISOService.csprojAssemblyReference.cache
+D:\mbnprojects\mbn-atm\mbn-atm-isoservice -2\MBNATMService\MBNATMService\obj\Debug\MBNATMService.ProjectInstaller.resources
+D:\mbnprojects\mbn-atm\mbn-atm-isoservice -2\MBNATMService\MBNATMService\obj\Debug\MBNATMISOService.csproj.GenerateResource.cache
+D:\mbnprojects\mbn-atm\mbn-atm-isoservice -2\MBNATMService\MBNATMService\obj\Debug\MBNATMISOService.csproj.CoreCompileInputs.cache
+D:\mbnprojects\mbn-atm\mbn-atm-isoservice -2\MBNATMService\MBNATMService\obj\Debug\MBNATMISOService.csproj.CopyComplete
+D:\mbnprojects\mbn-atm\mbn-atm-isoservice -2\MBNATMService\MBNATMService\obj\Debug\MBNATMISOService.exe
+D:\mbnprojects\mbn-atm\mbn-atm-isoservice -2\MBNATMService\MBNATMService\obj\Debug\MBNATMISOService.pdb

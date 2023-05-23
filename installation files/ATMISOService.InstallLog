@@ -1,0 +1,8 @@
+﻿Uninstalling assembly 'C:\Users\Bikram Gurung\OneDrive\Desktop\ATM\ATMISOService\ATMISOService\ATMISOService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Bikram Gurung\OneDrive\Desktop\ATM\ATMISOService\ATMISOService\ATMISOService.InstallLog
+   assemblypath = C:\Users\Bikram Gurung\OneDrive\Desktop\ATM\ATMISOService\ATMISOService\ATMISOService.exe
+Removing EventLog source ATMISOService.
+Service ATMISOService is being removed from the system...
+Service ATMISOService was successfully removed from the system.
